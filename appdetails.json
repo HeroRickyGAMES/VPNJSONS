@@ -1,10 +1,10 @@
 {
   "ads":"true",
   "update":[{
-    "version":"",
-    "title":"Note",
-    "description":"If you have installed any other vpn app kindly uninstall it otherwise you won't be able to connect to our VPN",
-    "size":""
+    "version":"2.8.1600",
+    "title":"This app is now Open Source",
+    "description":"The App is available at github.com/gayankuruppu/android-vpn-client-ics-openvpn",
+    "size":"https://git.io/JeY69"
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
@@ -16,6 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.94.202.74","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Essen","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"a"},
+    {"id":1, "file":0, "city":"Hamburg","country":"Germany","image":"germany","ip":"51.68.191.75","active":"true","signal":"b"},
+    {"id":2, "file":1, "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"205.185.119.100","active":"true","signal":"c"}
   ]
 }
