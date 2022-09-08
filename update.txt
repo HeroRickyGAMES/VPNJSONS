@@ -27,7 +27,7 @@ desenvolvido por HeroRickyGames\n",
       "FLAG": "us.png",
       "ServerIP": "us1.flyssh.com",
       "CheckUser": "",
-      "ServerPort": "443",
+      "ServerPort": "22",
       "SSLPort": "443",
       "USER": "flyssh.herorickygam",
       "PASS": "rso72002"
